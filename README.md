@@ -8,6 +8,7 @@
 pip install -r requirements.txt
 ```
 - Any Embedding Models can used for simple test when training, but BioLLM will be used for Public Test and Private Test.
+- Ref: <a href=https://huggingface.co/aaditya/Llama3-OpenBioLLM-8B> Llama3-OpenBioLLM-8B </a>
 
 2. Download Scispacy Model.
 ```
