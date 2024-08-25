@@ -2,6 +2,7 @@ from transformers import AutoTokenizer, AutoModel, AutoModelForCausalLM
 import numpy as np
 import torch
 from sklearn.metrics.pairwise import cosine_similarity
+from tqdm.auto import tqdm
 
 class EmbeddingEvaluator:
     def __init__(self, model_name):
