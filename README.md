@@ -1,6 +1,8 @@
 # K-Medicon Sub2 
 <img a=https://github.com/user-attachments/assets/513dbb0b-d30c-4eb5-abbd-c1e3fc7c3234>
 
+![6e16810003ed246323b65d2ff3b4108a_1723423189_6724](https://github.com/user-attachments/assets/ada0b565-1eb5-45f3-922e-83ee5496dfce)
+
 
 ## Metrics
 1. Install python pakcage in your environment (docker, conda, ...)
